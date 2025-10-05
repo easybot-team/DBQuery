@@ -1,6 +1,6 @@
+# sqlite3==3.39.5正常情况下无需安装，除非过度精简
 fastapi==0.110.0
 uvicorn==0.29.0
-#sqlite3==3.39.5
 pydantic==2.6.1
 python-multipart==0.0.9
 python-dotenv==1.0.1
